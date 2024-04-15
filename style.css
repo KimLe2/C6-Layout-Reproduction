@@ -49,6 +49,18 @@ a:first-child {
     background-color: rgb(245, 245, 237);
 }
 
+.comment {
+    background-image: url(Screenshot\ 2567-04-15\ at\ 5.34.11\ AM.png);
+    background-position: -4px px;
+    background-repeat: no-repeat;
+    background-size: 1.4em;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 12px;
+    height:1px;
+
+}
+
 ol{
     margin: 0;
 }
@@ -74,4 +86,3 @@ ol{
         font-size: 10px;
     }
 }
-
