@@ -20,8 +20,8 @@
     border: 1px solid white;
 }
 
-.nav-link-group {
-    padding: 0 0 3px 0;
+#nav-link-group {
+    margin-top: 0px;
 
 }
 .nav-link {
@@ -43,4 +43,20 @@ a:first-child {
 
 .bold {
     font-weight: bold;
+}
+
+.main-container {
+    background-color: rgb(245, 245, 237);
+}
+
+ol{
+    margin: 0;
+}
+
+.comment {
+    font-size: 15px;
+}
+
+.comment-info {
+    font-size: 10px;
 }
