@@ -1,0 +1,46 @@
+
+
+
+.body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.nav-bar {
+    background-color: rgb(255, 91, 40);
+    display: grid;
+    grid-template-columns: 20px auto 100px;
+    padding: 2px;
+    height: 20px;
+}
+
+#logo {
+    height: 18px;
+    width: 18;
+    border: 1px solid white;
+}
+
+.nav-link-group {
+    padding: 0 0 3px 0;
+
+}
+.nav-link {
+    margin-top: 0px;
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+
+a:first-child {
+    font-size: 17px;
+    font-weight: 900;
+    margin-right: 5px;
+}
+
+.login {
+    text-align: right;
+}
+
+.bold {
+    font-weight: bold;
+}
